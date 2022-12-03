@@ -7,7 +7,7 @@
   * [](./docs/c-3算法.md)
   * [](./docs/c-4操作系统.md)
 
-*Uniswap
+* Uniswap
 
   * [uniswap v1原理](./docs/Defi/uniswap/uniswap v1原理.md)
   * [uniswap v1源码解析](./docs/Defi/uniswap/uniswap v1源码解析.md)
@@ -18,4 +18,4 @@
 
   * [资料篇](./docs/一些优质资料.md)
   * [工具篇](./docs/一些好用的工具.md)
-  * [视频篇]
+  * [视频篇](./docs/一些好用的工具.md)
