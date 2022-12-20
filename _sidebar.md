@@ -7,6 +7,10 @@
   * [capturetheether全解](./docs/bachangwp/capturetheether题解.md)
   * [ethernuat题解](./docs/bachangwp/ethernaut题解/Elevator.md)
 
+* WEB3.JS
+
+  * [web3.js笔记](./docs/web3-js.md)
+
 * Uniswap
 
   * [uniswap v1原理](./docs/Defi/uniswap/uniswapv1原理.md)
