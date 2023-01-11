@@ -17,7 +17,11 @@
   * [uniswap v1源码解析](./docs/Defi/uniswap/uniswapv1源码解析.md)
   * [uniswap v2原理](./docs/Defi/uniswap/uniswapv2原理.md)
   * [uniswap v2源码解析](./docs/Defi/uniswap/uniswapv2源码解析.md)
-  
+
+* Cefi爆雷
+
+  * [2022 年度 CeFi 暴雷事件与模式安全性分析万字研究报告](./docs/CeFi 暴雷事件研究报告.md)
+
 * 资源合集
 
   * [资料篇](./docs/一些优质资料.md)
